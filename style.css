@@ -6,7 +6,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-tr,td,th {
+tr td th {
   border: 2px;
 }
 
